@@ -1,5 +1,3 @@
-# Chen Neuroscience
-
 ## Publications 
 
 See [Code](https://github.com/ChenNeuroscience/Publications).
