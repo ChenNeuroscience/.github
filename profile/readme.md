@@ -1,4 +1,4 @@
-# ChenNeuroscience
+# Chen Neuroscience
 
 ## Publications 
 
